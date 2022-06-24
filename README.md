@@ -17,7 +17,7 @@
   
 :star: Support us with a <a href="https://github.com/elementary-data/elementary-lineage/stargazers"><img src="static/star_github.png" width="40"/></a> :star:  
 
-<img alt="UI" src="https://storage.googleapis.com/elementary_static/elementary_ui.gif" width="800">
+<img alt="UI" src="https://storage.googleapis.com/elementary_static/elementary_ui.gif">
 
 ### Checkout the [live demo](https://www.elementary-data.com/data-observability-demo)
  
