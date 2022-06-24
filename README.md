@@ -15,7 +15,7 @@
 * **Slack alerts**
 * **Data lineage made simple, reliable, and automated**
   
-:star: Support us with a <a href="https://github.com/elementary-data/elementary-lineage/stargazers"><img src="static/star_github.png" width="40"/></a> :star:  
+:star: Support us with a <a href="https://storage.googleapis.com/elementary_static/elementary_ui.gif"><img src="static/star_github.png" width="40"/></a> :star:  
 
 <img alt="UI" src="static/ui_for_git.png" width="800">
 
